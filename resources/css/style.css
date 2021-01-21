@@ -16,7 +16,9 @@ img{vertical-align:top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 
 body {
-    width: 100%;
+    position: center;
+    width: 1700px;
+    margin: 0 auto;
     font-family: 'Quicksand', sans-serif;
 }
 header {
@@ -67,24 +69,28 @@ header {
     display: flex;
     background-color: #d9d8d8;
 }
-.learn_img {
+.learn_img {}
+.lrn_img {
     padding: 32px 24px;
+    flex: 1 1;
+    width: 800px;
 }
 .lrn_txt_but {
     flex-direction: column;
+    width: 900px;
+    margin: 0 auto;
 }
 .lrn_title {
-    align-items: center;
+    padding: 150px 0px 0 100px;
     font-weight: bold;
     font-size: 55px;
-    padding: 200px 0px 0 24px;
 }
 .lrn_text_down {
-    padding: 50px 0 0 24px;
+    padding: 50px 50px 0 100px;
     font-size: 40px;
 }
 .lrn_but {
-    padding: 32px 0 0 24px;
+    padding: 32px 0 0 100px;
 }
 .button_start {
     text-align: center;
