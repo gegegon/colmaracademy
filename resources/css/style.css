@@ -95,9 +95,100 @@ header {
 .button_start {
     text-align: center;
     font-size: 35px;
+    font-weight: bold;
     width: 650px;
     height: 100px;
     background-color: #515151;
     color: white;
-
+}
+.keep_practicing {
+    display: flex;
+    padding-top: 32px;
+    background-color: #fcfcfc;
+}
+.left_column {}
+.left_column_image {
+    padding: 0 24px 32px 24px;
+    width: 800px;
+}
+.kp_l_title {
+    padding: 0 24px 0 24px;
+    font-weight: bold;
+    font-size: 55px;
+    width: 800px;
+}
+.kp_l_main_txt {
+    padding: 24px 24px 24px 24px;
+    font-size: 20px;
+    width: 800px;
+}
+.kp_l_sign_txt {
+    font-size: 20px;
+    width: 800px;
+    padding: 0 0 32px 24px;
+}
+.right_column {}
+.right_column_row1 {
+    display: flex;
+}
+.right_column_image1 {
+    padding-left: 100px;
+    width: 350px;
+}
+.kp_r_title1 {
+    padding: 50px 0 0 40px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.kp_r_date1 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+}
+.links5 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.right_column_row2 {
+    display: flex;
+}
+.right_column_image2 {
+    padding: 16px 0 0 100px;
+    width: 350px;
+}
+.kp_r_title2 {
+    padding: 50px 0 0 40px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.kp_r_date2 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+}
+.links6 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.right_column_row3 {
+    display: flex;
+}
+.right_column_image3 {
+    padding: 16px 0 32px 100px;
+    width: 350px;
+}
+.kp_r_title3 {
+    padding: 50px 0 0 40px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.kp_r_date3 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+    width: 400px;
+}
+.links7 {
+    padding: 24px 0 0 40px;
+    font-size: 20px;
+    font-weight: bold;
 }
