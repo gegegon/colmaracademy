@@ -192,3 +192,15 @@ header {
     font-size: 20px;
     font-weight: bold;
 }
+.start_lrn {}
+.start_lrn_title {}
+.start_lrn_boxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+.st_lrn_soft_box {}
+.st_lrn_soft_images {}
+.st_lrn_soft_title {}
+.st_lrn_soft_txt1 {}
+.st_lrn_soft_txt2 {}
+
