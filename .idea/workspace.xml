@@ -59,7 +59,10 @@
       <workItem from="1611161560377" duration="12624000" />
       <workItem from="1611209750348" duration="10453000" />
       <workItem from="1611312502743" duration="19375000" />
-      <workItem from="1611520948783" duration="2283000" />
+      <workItem from="1611520948783" duration="2413000" />
+      <workItem from="1611586314989" duration="597000" />
+      <workItem from="1611769157755" duration="7644000" />
+      <workItem from="1611823694861" duration="6231000" />
     </task>
     <task id="LOCAL-00001" summary="Made draft for header">
       <created>1611010127797</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611347369375</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" Have started do flex-box - Start learning">
+      <created>1611523353900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611523353900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,17 +122,18 @@
     <MESSAGE value="Made second block &lt;article class=&quot;learn&quot;&gt;" />
     <MESSAGE value="made correct fix for part - Learn" />
     <MESSAGE value="Add third block - Keep practising" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add third block - Keep practising" />
+    <MESSAGE value=" Have started do flex-box - Start learning" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Have started do flex-box - Start learning" />
   </component>
   <component name="WindowStateProjectService">
     <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1611002498322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611002498322" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611347379361">
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611523367586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611347379361" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611523367586" />
     <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611010050073">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
