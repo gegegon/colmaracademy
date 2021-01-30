@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22e085e5-52b2-4835-9c17-315140c1d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/css/c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/i.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
@@ -23,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,7 +64,10 @@
       <workItem from="1611520948783" duration="2413000" />
       <workItem from="1611586314989" duration="597000" />
       <workItem from="1611769157755" duration="7644000" />
-      <workItem from="1611823694861" duration="6231000" />
+      <workItem from="1611823694861" duration="15590000" />
+      <workItem from="1612002839752" duration="2940000" />
+      <workItem from="1612016359111" duration="3697000" />
+      <workItem from="1612033368701" duration="9135000" />
     </task>
     <task id="LOCAL-00001" summary="Made draft for header">
       <created>1611010127797</created>
@@ -99,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611523353900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Part &quot;Start learning&quot; finished">
+      <created>1611831514256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611831514256</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,17 +135,22 @@
     <MESSAGE value="made correct fix for part - Learn" />
     <MESSAGE value="Add third block - Keep practising" />
     <MESSAGE value=" Have started do flex-box - Start learning" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Have started do flex-box - Start learning" />
+    <MESSAGE value="Part &quot;Start learning&quot; finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part &quot;Start learning&quot; finished" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="553" y="179" width="812" height="727" key="#Intentions" timestamp="1612042718395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="179" width="812" height="727" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1612042718395" />
     <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1611002498322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611002498322" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611523367586">
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611831523204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611523367586" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611831523204" />
     <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611010050073">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
